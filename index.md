@@ -6,9 +6,12 @@ layout: default
 
 # Research computing summer school
 
-> organized by WestGrid and University of Manitoba
+> organized by WestGrid and the University of Manitoba
 
-This event is brought to you by [WestGrid](https://www.westgrid.ca) and the [University of Manitoba ARC Department].
+This event is brought to you by [WestGrid](https://www.westgrid.ca) and the University of Manitoba ARC
+Department. The main focus of this school is training researchers to use
+[Compute Canada's national systems](https://docs.computecanada.ca/wiki/National_systems) efficiently for
+their scientific workflows in all disciplines and introducing the modern tools and techniques.
 
 <div class="toc" markdown="1">
 ## Contents:
