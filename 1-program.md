@@ -29,9 +29,11 @@ Ali Kerrache (**please put in time estimates for these sessions**)
 
 posssible other topics
 - genomics
-  - GenAP portal? (better fit for CC audience?)
+  - GenAP portal? is it a better fit for CC audience? Carol Gauthier is GenAP sysadmin
   - GSC?
   - using Galaxy on Cedar?
+  - in an "intro to HPC" session last year, about 15 microbiologists attended and asked a lot of
+    questions about "Web-based genomics computing"
   - **consult with Jamie Rosner**
 - HPC Python
 - other high-level programming languages (MATLAB, Julia)
