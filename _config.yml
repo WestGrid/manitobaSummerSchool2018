@@ -1,5 +1,5 @@
 # Site settings
-title: WG-school-at-UBC
+title: WG-school-at-UManitoba
 description: > 
   Create a workshop website quick and easy! 
 keywords: "hpc, westgrid, summer school"
@@ -11,11 +11,11 @@ twitter_username:
 pub_year: 2018
 
 # add the full url for the github repository
-repo: "https://github.com/WestGrid/ubcSummerSchool2018.git"
+repo: "https://github.com/WestGrid/manitobaSummerSchool2018.git"
 
 # add the full url for the repository's gh-pages
 # hint: it's in the form https://username.github.io/repo-name
-url: "https://westgrid.github.io/ubcSummerSchool2018"
+url: "https://westgrid.github.io/manitobaSummerSchool2018"
 
 # add google analytics if desired (and uncomment in _includes/head.html)
 google_analytics: 
