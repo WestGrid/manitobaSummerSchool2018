@@ -6,9 +6,9 @@ layout: default
 
 # Research computing summer school
 
-> organized by WestGrid and UBC
+> organized by WestGrid and University of Manitoba
 
-This event is brought to you by [WestGrid](https://www.westgrid.ca) and the [UBC ARC Department](https://arc.ubc.ca).
+This event is brought to you by [WestGrid](https://www.westgrid.ca) and the [University of Manitoba ARC Department].
 
 <div class="toc" markdown="1">
 ## Contents:
