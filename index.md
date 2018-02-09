@@ -6,7 +6,7 @@ layout: default
 
 # Research computing summer school
 
-> organized by WestGrid and the University of Manitoba
+> Monday June 25th to Thursday June 28th, 2018
 
 This event is brought to you by [WestGrid](https://www.westgrid.ca) and the University of Manitoba ARC
 Department. The main focus of this school is training researchers to use
