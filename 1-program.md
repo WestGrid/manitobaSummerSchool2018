@@ -33,6 +33,8 @@ MATLAB
   seat of the mcc compiler). For a course might need temporary licenses.
 
 bioinformatics
+- in an "intro to HPC" session last year, about 15 microbiologists attended and asked a lot of questions
+  about "Web-based genomics computing"
 - Jamie: in general GenAP / Galaxy on Cedar/Graham would make a great workshop; first contact someone
   from the GenAP team (David Morais from USherbrook); also ask GSC/BNT people
 - Grigory: We had users asking for SMRT Link. Galaxy and GenAP portal are also good. Is Galaxy supported
@@ -63,13 +65,6 @@ bioinformatics
 
 
 Other possible topics
-- genomics
-  - GenAP portal? is it a better fit for CC audience? Carol Gauthier is GenAP sysadmin
-  - GSC?
-  - using Galaxy on Cedar?
-  - in an "intro to HPC" session last year, about 15 microbiologists attended and asked a lot of
-    questions about "Web-based genomics computing"
-  - **consult with Jamie Rosner**
 - HPC Python
 - other high-level programming languages (MATLAB, Julia)
 - hybrid programming with MPI+OpenMP
