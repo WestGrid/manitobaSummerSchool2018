@@ -20,7 +20,7 @@ Grigory Shamov (**please put in time estimates for these sessions**)
 - perhaps some other things
 
 Ali Kerrache (**please put in time estimates for these sessions**)
-- general intro to Molecular Dynamics
+- general intro to Molecular Dynamics (6h)
 - OpenMP
 - perhaps some other things
 
