@@ -14,7 +14,7 @@ Alex Razoumov
 - *Scientific visualization with ParaView* (full-day)
 
 Grigory Shamov (**please put in time estimates for these sessions**)
-- Singularity
+- Singularity : 2 acad. hours
 - Torque-to-Slurm migration (say as part of a larger Intro to CC HPC session)
   - Alex: could be a simple set of slides / cheat sheet for Torque-to-Slurm command translations
 - perhaps some other things
