@@ -12,10 +12,10 @@ nav: true
 | Mon **25th** afternoon | *Introduction to HPC* by Alex Razoumov (cont.) | |
 | Tue **26th** morning | *Chapel* by Alex Razoumov | *Singularity* by Grigory Shamov |
 | Tue **26th** afternoon | *Chapel* by Alex Razoumov (cont.) | |
-| Wed **27th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
-| Wed **27th** afternoon | *Large-scale remote ParaView visualization* by Alex Razoumov | MATLAB cont.? |
-| Thu **28th** morning | *Intro to Molecular Dynamics* by Ali Kerrache | |
-| Thu **28th** afternoon | *Intro to Molecular Dynamics* by Ali Kerrache (cont.) | |
+| Wed **27th** morning | *Intro to Molecular Dynamics* by Ali Kerrache | MATLAB by Mathworks |
+| Wed **27th** afternoon | *Intro to Molecular Dynamics* by Ali Kerrache (cont.) | MATLAB cont.? |
+| Thu **28th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | |
+| Thu **28th** afternoon | *Large-scale remote ParaView visualization* by Alex Razoumov | |
 
 ## Other possible courses
 
