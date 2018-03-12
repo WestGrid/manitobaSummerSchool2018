@@ -6,21 +6,25 @@ nav: true
 
 # Program
 
-Time estimates below are maximum, can be reduced if necessary.
+| date and time | lecture theatre | smaller classroom |
+| ------------- | --------------- | ----------------- |
+| Mon **25th** morning | *Introduction to HPC* by Alex Razoumov | |
+| Mon **25th** afternoon | *Introduction to HPC* by Alex Razoumov (cont.) | |
+| Tue **26th** morning | *Chapel* by Alex Razoumov | *Singularity* by Grigory Shamov |
+| Tue **26th** afternoon | *Chapel* by Alex Razoumov (cont.) | |
+| Wed **27th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
+| Wed **27th** afternoon | *Large-scale remote ParaView visualization* by Alex Razoumov | MATLAB cont.? |
+| Thu **28th** morning | *Intro to Molecular Dynamics* by Ali Kerrache | |
+| Thu **28th** afternoon | *Intro to Molecular Dynamics* by Ali Kerrache (cont.) | |
 
-Alex Razoumov
-- *Introduction to HPC* (full-day)
-- *Chapel* (full-day)
-- *Scientific visualization with ParaView* (full-day)
+## Other possible courses
 
-Grigory Shamov (**please put in time estimates for these sessions**)
-- Singularity : 2 acad. hours
+Grigory Shamov
 - Torque-to-Slurm migration (say as part of a larger Intro to CC HPC session)
   - Alex: could be a simple set of slides / cheat sheet for Torque-to-Slurm command translations
 - perhaps some other things
 
-Ali Kerrache (**please put in time estimates for these sessions**)
-- general intro to Molecular Dynamics (6h)
+Ali Kerrache
 - OpenMP
 - perhaps some other things
 
@@ -28,7 +32,7 @@ Ali Kerrache (**please put in time estimates for these sessions**)
 - intro to parallel programming in general? **need to find the specific topic**
 
 MATLAB
-- Many Matlab users on grex. A popular support topic here is how to compile Matlab into MCR’s to run on
+- Many Matlab users on grex. A popular support topic here is how to compile Matlab into MCR's to run on
   clusters. There is a campus-wide license (not TAH, some of the toolkits and tools are limited: a single
   seat of the mcc compiler). For a course might need temporary licenses.
 
@@ -53,18 +57,13 @@ bioinformatics
   team and is on the genap team as well. David, can you please answer some of Grigory’s questions?
   i.e. on which CC systems is genap available? and would someone from the genap team be interested in
   teaching a genap/galaxy workshop at the UofM summer school?
-- david morais: Can you tell me a bit about your need? Galaxy is not currently on Cedar or Graham, but we
+- David Morais: Can you tell me a bit about your need? Galaxy is not currently on Cedar or Graham, but we
   are able to create galaxy instances for users without CC credentials. Those instances are suitable for
   course and small workshops. Right now Galaxy runs from Mp2 (through GenAP) and from a standalone server
   (the one I mention above). Let me know what you need and we can provide support to your workshop.
 
+Miscellaneous
 
-
-
-
-
-
-Other possible topics
 - HPC Python
 - other high-level programming languages (MATLAB, Julia)
 - hybrid programming with MPI+OpenMP
