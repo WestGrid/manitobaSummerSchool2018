@@ -24,6 +24,9 @@ nav: true
 | Wed **27th** afternoon | *Intro to Molecular Dynamics* by Ali Kerrache (cont.) | MATLAB cont.? |
 | Thu **28th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | |
 | Thu **28th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | |
+{:.mbtablestyle}
+
+&nbsp;
 
 ## Action items
 
