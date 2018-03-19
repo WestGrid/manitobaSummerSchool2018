@@ -14,7 +14,7 @@ nav: true
 
 ## Program
 
-| date and time | lecture theatre | smaller classroom |
+| date and time | EITC E2-320 | EITC E2-330 |
 | ------------- | --------------- | ----------------- |
 | Mon **25th** morning | *Introduction to HPC* by Alex Razoumov | |
 | Mon **25th** afternoon | *Introduction to HPC* by Alex Razoumov (cont.) | |
