@@ -4,7 +4,24 @@ title: Program
 nav: true
 ---
 
-# Program
+- Monday June-25 to Thursday June-28
+- website http://bit.ly/manwg18
+- repo https://github.com/WestGrid/manitobaSummerSchool2018
+- announcement and registration opening around May-01
+
+## Action items
+
+**Alex:**
+- talk to Jana about coffee breaks
+
+**Grigory:**
+- EITC E2-320 and EITC E2-330 (in Engineering and Information Technologies Centre); these are side by
+  side, 80 people each, no desk power sockets; also have Westgrid room E2-528 (10 people max) two floors
+  above these
+- confirm that the U allows us to charge fees
+- talk to "one senior and important CS professor"
+
+## Program
 
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
