@@ -6,57 +6,55 @@ nav: true
 
 - Monday June-25 to Thursday June-28
 - website http://bit.ly/manwg18
-- repo https://github.com/WestGrid/manitobaSummerSchool2018
+- repository https://github.com/WestGrid/manitobaSummerSchool2018
 - announcement and registration opening around May-01
 - rooms: EITC E2-320 and EITC E2-330 (Engineering and Information Technologies Centre); these are side by
   side, 80 people each, no desk power sockets; also have Westgrid room E2-528 (10 people max) two floors
   above these
 
-## Program
+## Courses (tentative program)
 
 | date and time | EITC E2-320 | EITC E2-330 |
 | ------------- | --------------- | ----------------- |
-| Mon **25th** morning | *Introduction to HPC* by Alex Razoumov | |
-| Mon **25th** afternoon | *Introduction to HPC* by Alex Razoumov (cont.) | |
-| Tue **26th** morning | *Parallel programming in Chapel* by Alex Razoumov | *Singularity* by Grigory Shamov |
-| Tue **26th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | |
+| Mon **25th** morning | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov | |
+| Mon **25th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov (cont.) | |
+| Tue **26th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | *Singularity* by Grigory Shamov |
+| Tue **26th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov (cont.) | *OpenMP* by Ali Kerrache |
 | Wed **27th** morning | *Intro to Molecular Dynamics* by Ali Kerrache | MATLAB by Mathworks |
-| Wed **27th** afternoon | *Intro to Molecular Dynamics* by Ali Kerrache (cont.) | MATLAB cont.? |
-| Thu **28th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | |
-| Thu **28th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | |
+| Wed **27th** afternoon | *Intro to Molecular Dynamics* by Ali Kerrache (cont.) | MATLAB by Mathworks (cont.) |
+| Thu **28th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex2.html) by Alex Razoumov | *Intro to Python* by Grigory or Ali |
+| Thu **28th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl }}/alex3.html) by Alex Razoumov | *Cloud* course |
 {:.mbtablestyle}
 
 &nbsp;
 
+**Notes**:
+- the University is Ok with charging a nominal registration fee, but need to remove references to
+  "external" attendees: just make it $35 to all
+- Torque-to-Slurm translation slides/printout will be included into *Introduction to HPC* (up to 30 mins
+  for Grigory or Ali)
+
 ## Action items
 
 **Alex:**
+- email Carol Gauthier about GenAP/Galaxy
+- email Kevin Green about PETSc
 - talk to Jana about coffee breaks
 
 **Grigory:**
-- confirm that the U allows us to charge fees
-- talk to "the CS professor"
+- talk to Peter Graham (CS faculty): **need to find a specific topic**
+- talk to other local faculty
+- prepare Torque-to-Slurm translation slides or printout
 
-## Other possible courses
+## Miscellaneous
 
-Grigory Shamov
-- Torque-to-Slurm migration (say as part of a larger Intro to CC HPC session)
-  - Alex: could be a simple set of slides / cheat sheet for Torque-to-Slurm command translations
-- perhaps some other things
-
-Ali Kerrache
-- OpenMP
-- perhaps some other things
-
-"One senior and important CS professor"
-- intro to parallel programming in general? **need to find the specific topic**
-
-MATLAB
+### MATLAB
 - Many Matlab users on grex. A popular support topic here is how to compile Matlab into MCR's to run on
   clusters. There is a campus-wide license (not TAH, some of the toolkits and tools are limited: a single
   seat of the mcc compiler). For a course might need temporary licenses.
 
-bioinformatics
+### Bioinformatics
+
 - in an "intro to HPC" session last year, about 15 microbiologists attended and asked a lot of questions
   about "Web-based genomics computing"
 - Jamie: in general GenAP / Galaxy on Cedar/Graham would make a great workshop; first contact someone
@@ -82,13 +80,12 @@ bioinformatics
   course and small workshops. Right now Galaxy runs from Mp2 (through GenAP) and from a standalone server
   (the one I mention above). Let me know what you need and we can provide support to your workshop.
 
-Miscellaneous
+### Other topics
 
 - HPC Python
-- other high-level programming languages (MATLAB, Julia)
+- Julia programming language
 - hybrid programming with MPI+OpenMP
 - GPU programming with CUDA and OpenACC
 - Jupyter notebooks and scientific computing in Python
-- CC cloud
 - Hadoop, Spark, data science
 - MPI (probably not since we'll have Chapel)
