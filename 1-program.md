@@ -16,12 +16,12 @@ nav: true
 
 | date and time | EITC E2-320 | EITC E2-330 |
 | ------------- | --------------- | ----------------- |
-| Mon **25th** morning | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov | |
-| Mon **25th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov (cont.) | |
-| Tue **26th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | *Singularity* by Grigory Shamov |
-| Tue **26th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov (cont.) | *OpenMP* by Ali Kerrache |
-| Wed **27th** morning | *Intro to Molecular Dynamics* by Ali Kerrache | MATLAB by Mathworks |
-| Wed **27th** afternoon | *Intro to Molecular Dynamics* by Ali Kerrache (cont.) | MATLAB by Mathworks (cont.) |
+| Mon **25th** morning | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov | [*Intro to Molecular Dynamics*]({{ site.baseurl }}/ali1.html) by Ali Kerrache |
+| Mon **25th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov (cont.) | [*Intro to Molecular Dynamics*]({{ site.baseurl }}/ali1.html) by Ali Kerrache (cont.) |
+| Tue **26th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*Singularity*]({{ site.baseurl }}/grigory.html) by Grigory Shamov |
+| Tue **26th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov (cont.) | [*OpenMP*]({{ site.baseurl }}/ali2.html) by Ali Kerrache |
+| Wed **27th** morning | [*Scientific computing with PETSc*]({{ site.baseurl }}/kevin.html) by Kevin Green | MATLAB by Mathworks |
+| Wed **27th** afternoon | [*Scientific computing with PETSc*]({{ site.baseurl }}/kevin.html) by Kevin Green (cont.) | MATLAB by Mathworks (cont.) |
 | Thu **28th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex2.html) by Alex Razoumov | *Intro to Python* by Grigory or Ali |
 | Thu **28th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl }}/alex3.html) by Alex Razoumov | *Cloud* course |
 {:.mbtablestyle}
@@ -38,7 +38,6 @@ nav: true
 
 **Alex:**
 - email Carol Gauthier about GenAP/Galaxy
-- email Kevin Green about PETSc
 - talk to Jana about coffee breaks
 
 **Grigory:**
