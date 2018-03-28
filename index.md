@@ -6,12 +6,15 @@ layout: default
 
 # Research computing summer school
 
-> Monday June 25th to Thursday June 28th, 2018
+## Monday June 25th to Thursday June 28th, 2018
 
 This event is brought to you by [WestGrid](https://www.westgrid.ca) and the University of Manitoba ARC
-Department. The main focus of this school is training researchers to use
-[Compute Canada's national systems](https://docs.computecanada.ca/wiki/National_systems) efficiently for
-their scientific workflows in all disciplines and introducing the modern tools and techniques.
+Department. The main goals of this school are:
+
+1. to train researchers to use
+   [Compute Canada's national systems](https://docs.computecanada.ca/wiki/National_systems) in their
+   scientific workflows, irrespective of their discipline, and
+1. to introduce modern computational tools and techniques.
 
 <div class="toc" markdown="1">
 ## Contents:
@@ -20,5 +23,3 @@ their scientific workflows in all disciplines and introducing the modern tools a
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | prepend: site.url }}){% endif %}
 {% endfor %}
 </div>
-
-> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
