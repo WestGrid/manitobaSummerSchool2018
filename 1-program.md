@@ -14,14 +14,16 @@ nav: true
 
 ## Courses (tentative program)
 
+- <sup>fixed</sup> means the instructor is available only on this date/time (cannot be moved)
+
 | date and time | EITC E2-320 | EITC E2-330 |
 | ------------- | --------------- | ----------------- |
 | Mon **25th** morning | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov | [*Intro to Molecular Dynamics*]({{ site.baseurl }}/ali1.html) by Ali Kerrache |
 | Mon **25th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/alex0.html) by Alex Razoumov (cont.) | [*Intro to Molecular Dynamics*]({{ site.baseurl }}/ali1.html) by Ali Kerrache (cont.) |
 | Tue **26th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*Singularity*]({{ site.baseurl }}/grigory.html) by Grigory Shamov |
 | Tue **26th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov (cont.) | [*OpenMP*]({{ site.baseurl }}/ali2.html) by Ali Kerrache |
-| Wed **27th** morning | [*Scientific computing with PETSc*]({{ site.baseurl }}/kevin.html) by Kevin Green | MATLAB by Mathworks |
-| Wed **27th** afternoon | [*Scientific computing with PETSc*]({{ site.baseurl }}/kevin.html) by Kevin Green (cont.) | MATLAB by Mathworks (cont.) |
+| Wed **27th** morning | [*Scientific computing with PETSc*]({{ site.baseurl }}/kevin.html) by Kevin Green | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks <sup>fixed</sup> |
+| Wed **27th** afternoon | [*Scientific computing with PETSc*]({{ site.baseurl }}/kevin.html) by Kevin Green (cont.) | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks (cont.) <sup>fixed</sup> |
 | Thu **28th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex2.html) by Alex Razoumov | *Intro to Python* by Grigory or Ali |
 | Thu **28th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl }}/alex3.html) by Alex Razoumov | *Cloud* course |
 {:.mbtablestyle}
