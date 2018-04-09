@@ -51,54 +51,13 @@ nav: true
 ## Action items
 
 **Alex:**
-- talk to Jana about coffee breaks
+- ACTION talk to Jana about coffee breaks
+- ACTION email Venkat for cloud materials
+- ACTION ask Jana to create a poster with a prominent UofManitoba logo (needed for departments to
+  circulate)
+- LATE APRIL email all instructors asking for their CPU/node/memory/GPU requirements
 
 **Grigory:**
-- talk to Peter Graham (CS faculty): **need to find a specific topic**
+- Apr-09 Peter Graham (CS faculty): most likely not
 - talk to other local faculty
 - prepare Torque-to-Slurm translation slides or printout
-
-## Miscellaneous
-
-### MATLAB
-- Many Matlab users on grex. A popular support topic here is how to compile Matlab into MCR's to run on
-  clusters. There is a campus-wide license (not TAH, some of the toolkits and tools are limited: a single
-  seat of the mcc compiler). For a course might need temporary licenses.
-
-### Bioinformatics
-
-- in an "intro to HPC" session last year, about 15 microbiologists attended and asked a lot of questions
-  about "Web-based genomics computing"
-- Jamie: in general GenAP / Galaxy on Cedar/Graham would make a great workshop; first contact someone
-  from the GenAP team (David Morais from USherbrook); also ask GSC/BNT people
-- Grigory: We had users asking for SMRT Link. Galaxy and GenAP portal are also good. Is Galaxy supported
-  on Cedar? Is GenAP supported on Cedar/Graham? Last time only worked with MP2, and CalculQebec will
-  likely to move it it GP4.
-- Jamie: SMRT Link is commercial software, comes with the PacBio sequencers. not sure if/how it works on
-  HPC systems, but you could check the docs http://bit.ly/2EXJLAc also not sure if we could find somebody
-  with that specific experience to teach it. they do have lots of online training videos.  perhaps all
-  this group needs is some support on how to run on CC systems? I still like the idea of a genap
-  workshop, but this will be very much different than learning SMRT link. As for where genap is
-  available, I’m not really sure so you’d have to ping the genap folks.
-- Grigory: If SMRT Link or GenAP is not something that Bioinformatics can help with, how about Galaxy?
-  Ata was saying any user can have Galaxy on Cedar? Can we teach it?
-- Jamie: Well, perhaps we can start by inquiring about GenAP/Galaxy… (galaxy is a central feature to the
-  genap platform, so they go hand in hand). I’ve cc’d David Morais who is co-lead on the bioinformatics
-  team and is on the genap team as well. David, can you please answer some of Grigory’s questions?
-  i.e. on which CC systems is genap available? and would someone from the genap team be interested in
-  teaching a genap/galaxy workshop at the UofM summer school?
-- David Morais: Can you tell me a bit about your need? Galaxy is not currently on Cedar or Graham, but we
-  are able to create galaxy instances for users without CC credentials. Those instances are suitable for
-  course and small workshops. Right now Galaxy runs from Mp2 (through GenAP) and from a standalone server
-  (the one I mention above). Let me know what you need and we can provide support to your workshop.
-- think about GenAP/Galaxy/(Carol Gauthier possible contact) next year
-
-### Other topics
-
-- HPC Python
-- Julia programming language
-- hybrid programming with MPI+OpenMP
-- GPU programming with CUDA and OpenACC
-- Jupyter notebooks and scientific computing in Python
-- Hadoop, Spark, data science
-- MPI (probably not since we'll have Chapel)
