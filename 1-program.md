@@ -52,8 +52,8 @@ nav: true
 
 **Alex:**
 - ACTION talk to Jana about coffee breaks
-- ACTION email Venkat for cloud materials
-- ACTION ask Jana to create a poster with a prominent UofManitoba logo (needed for departments to
+- DONE email Venkat for cloud materials, spinning up VMs, guest accounts for the cloud
+- DONE ask Jana to create a poster with a prominent UofManitoba logo (needed for departments to
   circulate)
 - LATE APRIL email all instructors asking for their CPU/node/memory/GPU requirements
 

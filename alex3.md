@@ -28,3 +28,10 @@ manipulate them with a variety of filters.
 their laptops with the latest version of ParaView installed from http://www.paraview.org/download. No
 prior visualization experience is required. We will provide sample data and codes for many interactive
 hands-on exercises, and you can bring your dataset if you would like to visualize it with ParaView.
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*: ParaView 5.3 (that specific version to match the cluster version) installed from
+  https://www.paraview.org

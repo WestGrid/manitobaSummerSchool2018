@@ -24,3 +24,9 @@ high-level abstractions that make it ideal for learning parallel programming for
 **Level**: beginner
 
 **Prerequisites**: None
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

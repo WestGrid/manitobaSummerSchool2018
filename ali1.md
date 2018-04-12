@@ -19,3 +19,9 @@ An introduction to Molecular Dynamics tools and techniques on Cedar.
 **Level**: beginner
 
 **Prerequisites**:
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:
