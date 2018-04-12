@@ -28,3 +28,9 @@ An introduction to high-performance computing for those without any HPC experien
 **Level**: beginner
 
 **Prerequisites**: Basic knowledge of Linux command line
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

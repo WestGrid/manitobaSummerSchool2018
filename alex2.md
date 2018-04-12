@@ -29,3 +29,9 @@ manipulate them with a variety of filters.
 from http://www.paraview.org/download. No prior visualization experience is required. We will provide
 sample data and codes for many interactive hands-on exercises, and you can bring your dataset if you
 would like to visualize it with ParaView.
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*: ParaView installed from https://www.paraview.org

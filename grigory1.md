@@ -19,3 +19,9 @@ A beginner's introduction to Compute Canada cloud.
 **Level**: beginner
 
 **Prerequisites**:
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

@@ -19,3 +19,9 @@ An introduction to using Singularity containers on Cedar.
 **Level**: beginner
 
 **Prerequisites**:
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

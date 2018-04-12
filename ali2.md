@@ -19,3 +19,9 @@ An introduction to shared-memory programming in OpenMP.
 **Level**: beginner
 
 **Prerequisites**:
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:
