@@ -13,8 +13,8 @@ to the University of Manitoba. Courses will explore introductory and advanced to
 and cloud computing, parallel programming, Matlab, Python and scientific visualization.
 
 For full course details, please check [the program]({{ site.baseurl }}/1-program.html). We encourage
-anyone interested in building knowledge and skills for computational research to attend the school. All
-research disciplines and skill levels are welcome to register.
+anyone interested in building knowledge and skills for computational research to attend the
+school. Researchers in all disciplines and skill levels are welcome to register.
 
 <div class="toc" markdown="1">
 ## Contents:
