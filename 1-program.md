@@ -23,7 +23,7 @@ nav: true
 | Tue **26th** afternoon | [*Parallel programming in Chapel*][alex1] by Alex Razoumov (cont.) | [*Intro to Molecular Dynamics*][ali1] by Ali Kerrache (cont.) |
 | Wed **27th** morning | [*Scientific computing with PETSc*][kevin] by Kevin Green | [*MATLAB*][mathworks] by Mathworks |
 | Wed **27th** afternoon | [*Scientific computing with PETSc*][kevin] by Kevin Green (cont.) | [*MATLAB*][mathworks] by Mathworks (cont.) |
-| Thu **28th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov | *Intro to Python* by Grigory or Ali |
+| Thu **28th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov | *Intro to Python* by Grigory Shamov |
 | Thu **28th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov | [*OpenMP*][ali2] by Ali Kerrache |
 {:.mbtablestyle}
 
