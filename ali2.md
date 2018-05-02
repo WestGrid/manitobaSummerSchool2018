@@ -26,5 +26,5 @@ There are many avanced parallel programming techincs (like MPI, OpenACC, ...). I
 **Setup**:
 - *Cluster reservation*: Yes
 - *Cluster space*:
-- *Cluster software*: Intel and Gnu Compilers
+- *Cluster software*: Intel and GNU Compilers
 - *Laptop software*: Terminal
