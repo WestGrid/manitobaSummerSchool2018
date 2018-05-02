@@ -14,13 +14,13 @@ Molecular Dynamics (MD) simulation is a powerfull tool that is applied in Materi
 
 **Course plan**:
 
-***First Session***:
+**First Session**:
 
 - Short introduction to the basics of MD.
 - Some examples and the properties that can be determined from MD simulations.
 - Available MD programs that can be used.
 
-***Second Session (hands on)***:
+**Second Session (hands on)**:
 
 - Introducing LAMMPS.
 - Setting and running an MD simulation.
