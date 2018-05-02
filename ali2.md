@@ -4,9 +4,9 @@ title: OpenMP
 nav: false
 ---
 
-**Instructor**: Ali Kerrache (University of Manitoba)
+**Instructor**: Dr. Ali Kerrache (University of Manitoba)
 
-**Title**: OpenMP
+**Title**: Introduction to Parallel Programming using OpenMP.
 
 An introduction to shared-memory programming in OpenMP.
 
@@ -21,7 +21,7 @@ An introduction to shared-memory programming in OpenMP.
 **Prerequisites**:
 
 **Setup**:
-- *Cluster reservation*:
+- *Cluster reservation*: Yes
 - *Cluster space*:
-- *Cluster software*:
-- *Laptop software*:
+- *Cluster software*: Intel and Gnu Compilers
+- *Laptop software*: Terminal
