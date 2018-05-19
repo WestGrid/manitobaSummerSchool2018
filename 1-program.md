@@ -13,7 +13,8 @@ nav: true
 [grigory1]: {{ site.baseurl }}/grigory1.html
 [grigory2]: {{ site.baseurl }}/grigory2.html
 [kevin]: {{ site.baseurl }}/kevin.html
-[mathworks]: {{ site.baseurl }}/mathworks.html
+[mathworks1]: {{ site.baseurl }}/mathworks1.html
+[mathworks2]: {{ site.baseurl }}/mathworks2.html
 
 | date and time | EITC E2-320 | EITC E2-330 |
 | ------------- | --------------- | ----------------- |
@@ -21,8 +22,8 @@ nav: true
 | Mon **25th** afternoon | [*Introduction to HPC*][alex0] by Alex Razoumov (cont.) ![beginner](beginner.png) | [*Containers for HPC: Singularity*][grigory1] by Grigory Shamov (cont.) ![intermediate](intermediate.png) |
 | Tue **26th** morning | [*Parallel programming in Chapel*][alex1] by Alex Razoumov ![beginner](beginner.png) | [*Intro to Molecular Dynamics*][ali1] by Dr. Ali Kerrache ![beginner](beginner.png) |
 | Tue **26th** afternoon | [*Parallel programming in Chapel*][alex1] by Alex Razoumov (cont.) ![beginner](beginner.png) | [*Intro to Molecular Dynamics*][ali1] by Dr. Ali Kerrache (cont.) ![beginner](beginner.png) |
-| Wed **27th** morning | [*Scientific computing with PETSc*][kevin] by Kevin Green ![intermediate](intermediate.png) | [*MATLAB*][mathworks] by Mathworks ![beginner](beginner.png) |
-| Wed **27th** afternoon | [*Scientific computing with PETSc*][kevin] by Kevin Green (cont.) ![intermediate](intermediate.png) | [*MATLAB*][mathworks] by Mathworks (cont.) ![intermediate](intermediate.png) |
+| Wed **27th** morning | [*Scientific computing with PETSc*][kevin] by Kevin Green ![intermediate](intermediate.png) | [*Data Analysis with MATLAB*][mathworks1] by MathWorks ![beginner](beginner.png) |
+| Wed **27th** afternoon | [*Scientific computing with PETSc*][kevin] by Kevin Green (cont.) ![intermediate](intermediate.png) | [*MATLAB Parallel Computing Hands-On Workshop*][mathworks2] by MathWorks (cont.) ![intermediate](intermediate.png) |
 | Thu **28th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov ![beginner](beginner.png) | [*Using  Python in HPC*][grigory2] by Grigory Shamov ![beginner](beginner.png) |
 | Thu **28th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov ![intermediate](intermediate.png) | [*Introduction to Parallel Programming using OpenMP*][ali2] by Dr. Ali Kerrache ![beginner](beginner.png) |
 {:.mbtablestyle}
