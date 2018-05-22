@@ -4,7 +4,7 @@ title: Data Analysis with MATLAB
 nav: false
 ---
 
-**Instructor**: MathWorks engineers
+**Instructor**: Sergio Obando Quintero
 
 **Title**: Data Analysis with MATLAB
 
@@ -24,13 +24,12 @@ when using them. You'll also learn how to run your MATLAB code on Compute Canada
   - Tackling different data formats (timestamps, text, image, big data, etc.)
 - Cleaning, exploring, visualizing, and combining complex multivariate data sets
 - Interfacing with different tools and languages (Python, Excel, Java, C, etc.)
-- Application-specific examples
+- Application-specific examples (will be chosen based on participants' interest)
   - Machine Learning
   - Deep Learning
   - Optimization
   - Big Data handling
   - Symbolic Math
-- Topics chosen based on participants' interest
 
 **Duration**: 3 hours
 
