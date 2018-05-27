@@ -30,9 +30,3 @@ know early on.
 
 Please check the online description of your course in the program and let us know if you want to add or
 change anything.
-
-## Recording and broadcasting
-
-Some of this year's summer school courses will be recorded and broadcast to remote participants and to
-the overflow room. If you do not agree to having your session recorded and broadcast, please let us know
-in advance.
