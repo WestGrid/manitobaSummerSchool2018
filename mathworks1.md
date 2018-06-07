@@ -8,11 +8,12 @@ nav: false
 
 **Title**: Data Analysis with MATLAB
 
-During this hands-on workshop, a MathWorks engineer will introduce you to parallel and distributed
-computing in MATLAB with a focus on speeding up your application code and offloading compute. By working
-through common scenarios and workflows using hands-on demos, you will gain an understanding of the
-parallel constructs in MATLAB, their capabilities, and some of the common hurdles that you’ll encounter
-when using them. You'll also learn how to run your MATLAB code on Compute Canada resources.
+Join us to learn many of the most used features and capabilities in MATLAB, a high-level language and
+interactive environment for numerical computation, visualization, and programming.
+
+In this session, a MathWorks Engineer will demonstrate data analysis features in the most recent releases
+of MATLAB and toolboxes, complete with code examples and resources that you can revisit following the
+training.
 
 **Target audience**: anyone interested learning more about MATLAB
 
@@ -35,7 +36,7 @@ when using them. You'll also learn how to run your MATLAB code on Compute Canada
 
 **Level**: beginner
 
-**Prerequisites**: 
+**Prerequisites**: none
 
 **Setup**:
 - *Cluster reservation*: 4 cores per participant
