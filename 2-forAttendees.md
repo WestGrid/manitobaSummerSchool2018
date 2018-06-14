@@ -18,7 +18,7 @@ day). Don't forget to check details and prerequisites for each course, including
 for your laptop under **Setup** > *Laptop software*. Please install the required software before coming
 to class.
 
-Before the start of the summer school **all eligible attendees must obtain**:
+Before the start of the summer school **all eligible attendees are encouraged to obtain**:
 
 1. Their Compute Canada acounts. You can find detailed instructions
    [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account). Please
