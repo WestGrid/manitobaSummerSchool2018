@@ -6,9 +6,9 @@ nav: true
 
 # Instructions for attendees
 
-Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. All sessions will take
-place in the Engineering and Information Technologies Centre (<a href="http://bit.ly/2JRAWay"
-target="_blank">see the exact location</a>), in rooms EITC E2-320 and EITC E2-330.
+Morning sessions will be 9:00am-12:00pm, and the afternoon sessions 1:00pm-4:00pm. All sessions will take
+place in Robson Hall (Faculty of Law) that you can find <a href="https://goo.gl/maps/WVZhc3hVGT62"
+target="_blank">here on Google Maps</a>, in rooms 206 and 207.
 
 These pages will continue to be updated as details are confirmed for room assignments, session times and
 detailed course information.
