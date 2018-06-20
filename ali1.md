@@ -31,10 +31,4 @@ Molecular Dynamics (MD) simulation is a powerfull tool that is applied in Materi
 
 **Level**: beginner
 
-**Prerequisites**:
-
-**Setup**:
-- *Cluster reservation*: Yes
-- *Cluster space*:
-- *Cluster software*: LAMMPS 
-- *Laptop software*: Terminal
+**Prerequisites**: none

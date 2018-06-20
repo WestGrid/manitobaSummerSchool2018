@@ -25,9 +25,3 @@ An introduction to Python and its use in High-Performance Computing environment.
 **Level**: beginner
 
 **Prerequisites**: Basic exposure to programming in any programming language.
-
-**Setup**:
-- *Cluster reservation*:
-- *Cluster space*:
-- *Cluster software*:
-- *Laptop software*:
