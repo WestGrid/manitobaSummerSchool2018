@@ -30,8 +30,5 @@ prior visualization experience is required. We will provide sample data and code
 hands-on exercises, and you can bring your dataset if you would like to visualize it with ParaView.
 
 **Setup**:
-- *Cluster reservation*:
-- *Cluster space*:
-- *Cluster software*:
 - *Laptop software*: ParaView 5.3 (that specific version to match the cluster version) installed from
   https://www.paraview.org

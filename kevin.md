@@ -37,9 +37,3 @@ Introduction to scientific computing using PETSc.
 **Level**: intermediate
 
 **Prerequisites**: *Introduction to HPC* session and programming experience in C or Fortran
-
-**Setup**:
-- *Cluster reservation*:
-- *Cluster space*:
-- *Cluster software*:
-- *Laptop software*:

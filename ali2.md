@@ -22,9 +22,3 @@ There are many avanced parallel programming techincs (like MPI, OpenACC, ...). I
 
 - Minimum knowledge of C/CPP and/or Fortran
 - Using a terminal and a text editor
-
-**Setup**:
-- *Cluster reservation*: Yes
-- *Cluster space*:
-- *Cluster software*: Intel and GNU Compilers
-- *Laptop software*: Terminal
