@@ -28,6 +28,6 @@ Before the start of the summer school **all eligible attendees are encouraged to
 2. Their Eduroam accounts through their home institutions. You will need online access to complete the
    hands-on exercises, log in to remote systems, view documentation, etc., so please make sure you can
    sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
-   institution. We have secured some temporary Wifi accounts
+   institution. We have secured some temporary Wifi accounts as well.
    - The desks in the rooms have Ethernet sockets for wired access. If you do not have an Eduroam
      account, and your laptop has an Ethernet port, you may want to bring an Ethernet cable to plug in.
