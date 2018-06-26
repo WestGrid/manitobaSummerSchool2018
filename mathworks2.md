@@ -14,6 +14,8 @@ through common scenarios and workflows using hands-on demos, you will gain an un
 parallel constructs in MATLAB, their capabilities, and some of the common hurdles that you’ll encounter
 when using them. You'll also learn how to run your MATLAB code on Compute Canada resources.
 
+You can download the course materials [here]({{ site.baseurl }}/pctWorkshop.zip).
+
 **Target audience**: anyone interested learning more about MATLAB
 
 **Course plan**:
