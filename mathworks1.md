@@ -15,6 +15,12 @@ In this session, a MathWorks Engineer will demonstrate data analysis features in
 of MATLAB and toolboxes, complete with code examples and resources that you can revisit following the
 training.
 
+**Important**: Please download and install MATLAB on your laptop from <a
+href="https://www.mathworks.com/downloads" target="_blank">this page</a>. If you do not have a
+school-wide license, you can use <a
+href="https://www.mathworks.com/campaigns/products/trials.tablet.html?s_eid=ppc_5852767762&q=download%20matlab"
+target="_blank">the following trial request</a>
+
 **Target audience**: anyone interested learning more about MATLAB
 
 **Course plan**:
