@@ -4,7 +4,7 @@ title: Data Analysis with MATLAB
 nav: false
 ---
 
-**Instructor**: Sergio Obando Quintero
+**Instructor**: Sergio Obando Quintero (MathWorks)
 
 **Title**: Data Analysis with MATLAB
 

@@ -13,8 +13,14 @@ the pages for individual courses for slides and other materials that the instruc
   }}/introHPC.zip)
 - *Parallel programming in Chapel* by Alex Razoumov (WestGrid): [the slides]({{ site.baseurl
   }}/chapel.pdf); the lesson notes are linked from slide 4
-- *MATLAB Parallel Computing Hands-On Workshop* by MathWorks: [all course materials]({{ site.baseurl
-  }}/pctWorkshop.zip)
+- *MATLAB Parallel Computing Hands-On Workshop* by Sam Marshalik (MathWorks): [all course materials]({{
+  site.baseurl }}/pctWorkshop.zip)
+
+## Visualization
+
+- *Basics of scientific visualization with ParaView* and *Large-scale remote visualization with ParaView*
+  by Alex Razoumov (WestGrid): the combined (for both sessions) slides, sample datasets and scripts all
+  in [one ZIP file]({{ site.baseurl }}/paraview.zip)
 
 If you have questions or would like more information on any of the courses, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
