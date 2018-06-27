@@ -17,6 +17,9 @@ the pages for individual courses for slides and other materials that the instruc
   [all course materials](https://owncloud.westgrid.ca/index.php/s/Nj6IThSXSxtmTdK/download)
 - *MATLAB Parallel Computing Hands-On Workshop* by Sam Marshalik (MathWorks): [all course materials]({{
   site.baseurl }}/pctWorkshop.zip)
+- *Scientific computing with PETSc* by Kevin Green (University of Saskatchewan): <a
+  href="https://github.com/kevinrichardgreen/petsc_westgrid_workshop" target="_blank">slides and
+  examples</a>
 
 ## Visualization
 
