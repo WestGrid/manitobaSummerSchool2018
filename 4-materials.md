@@ -11,6 +11,10 @@ the pages for individual courses for slides and other materials that the instruc
 
 - *Introduction to HPC* by Alex Razoumov: slides and sample codes all in [one ZIP file]({{ site.baseurl
   }}/introHPC.zip)
+- *Parallel programming in Chapel* by Alex Razoumov (WestGrid): [the slides]({{ site.baseurl
+  }}/chapel.pdf); the lesson notes are linked from slide 4
+- *MATLAB Parallel Computing Hands-On Workshop* by MathWorks: [all course materials]({{ site.baseurl
+  }}/pctWorkshop.zip)
 
 If you have questions or would like more information on any of the courses, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
