@@ -19,6 +19,10 @@ programminh languages: C/C++ and Fortran.
 
 **Course plan**:
 
+You can download the course materials [here]({{ site.baseurl }}/openmp.tar.gz).
+
+You can download the slides [here]({{ site.baseurl }}/openmp-slides.pdf).
+
 **Duration**: 3 hours
 
 **Level**: beginner
