@@ -20,6 +20,11 @@ the pages for individual courses for slides and other materials that the instruc
 - *Scientific computing with PETSc* by Kevin Green (University of Saskatchewan): <a
   href="https://github.com/kevinrichardgreen/petsc_westgrid_workshop" target="_blank">slides and
   examples</a>
+- *Introduction to Parallel Programming for shared memory machines using <a href="https://www.openmp.org/" target="_blank">OpenMP</a>: [examples]({{ site.baseurl }}/openmp.tar.gz)  [slides]({{ site.baseurl }}/openmp-slides.pdf).
+
+## Scientific methods
+
+- *Introduction to Molecular Dynamics simulatios: [examples]({{ site.baseurl }}/md.tar.gz) and [slides]({{ site.baseurl }}/md-slides.pdf).
 
 ## Visualization
 
