@@ -14,6 +14,10 @@ Molecular Dynamics (MD) simulation is a powerfull tool that is applied in Materi
 
 **Course plan**:
 
+You can download the course materials [here]({{ site.baseurl }}/md.tar.gz).
+
+You can download the slides [here]({{ site.baseurl }}/md-slides.pdf).
+
 **First Session**:
 
 - Short introduction to the basics of MD.
